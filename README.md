@@ -1,6 +1,6 @@
-#TMDB CLIENT
+# TMDB CLIENT
 
-###TMDB Client es una app básica de visualización de películas populares.
+### TMDB Client es una app básica de visualización de películas populares.
 
 Esta app esta desarrollada con Kotlin usando clean architecture MVVM, Coroutines, Dagger injection y Room persistence
 
