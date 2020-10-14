@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TBDBClient</string>
+    <string name="release_date">Release date:</string>
+    <string name="update">Update</string>
+</resources>

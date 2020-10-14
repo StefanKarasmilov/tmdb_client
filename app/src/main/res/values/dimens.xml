@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_img_height">128dp</dimen>
+    <dimen name="app_bar_height">500dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="common_padding_default">16dp</dimen>
+    <dimen name="common_paddin_nano">2dp</dimen>
+</resources>
