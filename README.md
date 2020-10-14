@@ -4,6 +4,6 @@
 
 Esta app esta desarrollada con Kotlin usando clean architecture MVVM, Retrofit, Coroutines, Dagger injection y Room persistence
 
-![](pic1.PNG)
-![](pic2.PNG)
-![](pic3.PNG)
+![](pic1.png)
+![](pic2.png)
+![](pic3.png)
